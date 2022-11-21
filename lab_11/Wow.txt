@@ -1,0 +1,170 @@
+1
+Cars
+2006
+2006-06-08
+John Lasseter
+Lightning McQueen
+01:56:36
+00:14:12
+Wow! Look at that shine!
+1
+5
+https://images.ctfassets.net/bs8ntwkklfua/6dsHUil72TJLYqbwYMEjH4/387a2d9994a2f1fb069d970a0f30ba32/Cars_Poster.jpg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/5DJiY3IWvjHjmfFT6mHWTE/63ad47ecaa6e65c094000175783f749e/Cars_Wow_1_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/5lhTTAmEIN8I5S1i7MTVg7/6747465a53447c24c82272e8438ec3ba/Cars_Wow_1_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/6S9OEenSTv0KCwfsVKSU1D/5f1fa3b78d5e32614e3c0268be046a8a/Cars_Wow_1_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/53WsapSnF3QVs8mVmrtcGv/206095859241881bbd5c3add0c5b980a/Cars_Wow_1_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/5wTwFaxcgg9E4QIwUXTJK4/9fbcc04e27d5860c9bf3febf72c9f20d/Cars_Wow_1.mp3
+2
+I Spy
+2002
+2002-10-22
+Betty Thomas
+Alexander Scott
+01:36:35
+00:51:04
+Wow, sounds like a sweet woman.
+3
+3
+https://images.ctfassets.net/bs8ntwkklfua/6qRNbbZZDNP3iY3sGlmHJp/46861dc3073138713ee9151d0f0a6cc4/I_Spy_Poster.jpg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/3IGQoSjw72CHCVDXNQjwqv/b58cb041ed2a0b3d759d569b84b38010/I_Spy_Wow_3_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/2w3QuJ7Piwn2trIAtb5q7W/523315ef21673cc9a5ec73493caa4fe4/I_Spy_Wow_3_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/NHZiQ0jNhxjUyc6xnEK3z/2a9a89c35838ba73fe29b44c7c57f0fe/I_Spy_Wow_3_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/4oQqmN937slhkYjHlU9Gay/cfe33e0afa6a24b2ccd6efe748010672/I_Spy_Wow_3_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/L3lRv8vIlHHnWatlWY7Xp/dbff71b4a18f4a507367aaef111f1202/I_Spy_Wow_3.mp3
+3
+Cars 3
+2017
+2017-05-22
+Brian Fee
+Lighting McQueen
+01:42:25
+01:03:08
+Wow. You don't mince words around here, do you?
+10
+10
+https://images.ctfassets.net/bs8ntwkklfua/43fOBsgY8iOJL0dijvFnfl/ea361efc5131a859c173ab5dd3fdfe1e/Cars_3_Poster.jpg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/3KJZ435sr6Y5k00AnZdOJ2/2aadc7fbc687b38c3f1536a9efc16cdb/Cars_3_Wow_10_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/5vQtn6ny9J79PNG16jsJMR/1b4804366cfb9206d70472ab9b7f37e6/Cars_3_Wow_10_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/6kIDoftFyBJOgvCBe5Jr5k/51be6dcd0a40aff052a4215258f6f2cb/Cars_3_Wow_10_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/923BnYGWVuiPpWeM7e6wv/db39600a6bd7c6a807e95d397d129dd4/Cars_3_Wow_10_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/3iZaUMMLnxCH1fIqcXpYZ0/78e6ee967cae46e64a6f65c6f451115a/Cars_3_Wow_10.mp3
+4
+Bottle Rocket
+1996
+1996-02-20
+Wes Anderson
+Dignan
+01:31:44
+01:04:44
+Wow. Wow. Okay, no more fighting.
+1
+3
+https://images.ctfassets.net/bs8ntwkklfua/4EY9GqHtORVXebFYywzgQP/32e3808e156a880c75063f42918390ef/Bottle_Rocket_Poster.jpg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/7spLWmHyAUz0TN8oNsAf5/a4d0739d07b8c511f5e59949bc0ccb1c/Bottle_Rocket_Wow_1_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/7AUtahGti2EMClGmW1rrZP/96e65cd64cce56684670c996ee94afd1/Bottle_Rocket_Wow_1_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/70L3BdbdbyszxEzg1BGAYN/9ec5064e7a92513f1ca611aee4435f16/Bottle_Rocket_Wow_1_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/4Z8ngFYNxK8p8Zu78cldCM/88a5ffc05c313691ebdd4969296a45fe/Bottle_Rocket_Wow_1_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/4vqXtu1j5ruJiGhk6bBltj/f35e792db87367e58e614fd5ba16efea/Bottle_Rocket_Wow_1.mp3
+5
+Free Birds
+2013
+2013-10-31
+Jimmy Hayward
+Reggie
+01:31:03
+00:29:25
+Oh, wow.
+1
+3
+https://images.ctfassets.net/bs8ntwkklfua/7MaIGsHazkYQr23iZVVrNr/a7d63846d09edd763a818a82a6b959e3/Free_Birds_Poster.jpg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/4O2lqQIQHF1GfhQpqX0QDe/00edbe7ba3d8460e62cd937ba57a7c15/Free_Birds_Wow_1_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/4w5YydJjd8Pl2aIWjjTnbC/cadec255ea84c80af85f073ebed1ef01/Free_Birds_Wow_1_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/3WvV6ydWvf2OK5X1HeDh5Z/a07d11ba13355a0b118ba2274cefc9c7/Free_Birds_Wow_1_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/I8vHgAzU8beQohmQLmHtL/b2f7eb04620b6eafc08af91736fe6b73/Free_Birds_Wow_1_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/3ElD4KMMrXF4THJQJioi5H/b1a02fcac64736997b9c13fbac87b142/Free_Birds_Wow_1.mp3
+6
+The Darjeeling Limited
+2007
+2007-10-25
+Wes Anderson
+Francis
+01:31:46
+00:25:35
+Wow. Right?
+1
+1
+https://images.ctfassets.net/bs8ntwkklfua/5D2bYaMm3KLD2IyTom9JxR/d73a69706777bebde1dfdd622a6fc60f/The_Darjeeling_Limited_Poster.jpeg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/6b9mIMTh39Yvemz0JIysZu/f3ef235f5c098b73a8672eb967e479de/The_Darjeeling_Limited_Wow_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/1lfWe2GLqsokdhNPgBRpsH/f18ec4681b41ae19becdc3c9b024b0b2/The_Darjeeling_Limited_Wow_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/BElsd8UBlxbnmnovXVTOw/1377b0cfff6a0e9072c5a34e0dc56b32/The_Darjeeling_Limited_Wow_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/6f8nr5iOXNlhCg1q6BGbFs/759a3b52920c27b2792325aa30a5d499/The_Darjeeling_Limited_Wow_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/59dP22lz2DcIjABVaFm8vu/f644b85fc36ed56b631772a0fdad9650/The_Darjeeling_Limited_Wow.mp3
+7
+Father Figures
+2017
+2017-12-12
+Lawrence Sher
+Kyle Reynolds
+01:52:50
+00:06:46
+There's a saying in Hawaii that goes a little something like this: 'Ohana makawao hihi Wailuku ukulele aloha adios.'
+1
+1
+https://images.ctfassets.net/bs8ntwkklfua/4FLpI0gdI6hgH3ZJEKOOgf/6c8a48542a67d8728fa0769368d9e16a/Father_Figures_Poster.jpg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/2xYriI4IEehecWGtlZ8kXf/d2cdc17514c8674a14007e34d05609ec/Father_Figures_Wow_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/3NA6JsOi7f4XFYRT6Mib69/3f8aba6f0718dfa917e9b92c0993259c/Father_Figures_Wow_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/01AEKYe9fuy5dDvtqcGEee/3884ada8f930c59329ca09431446dd18/Father_Figures_Wow_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/7Lw9MOxSuUmOKjhDIUBsG3/e645af7ee5043211d2103eca7188f2f2/Father_Figures_Wow_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/6a4q7B0EwLknSOoN4vAOQU/564fe702d4ed75a6868fd092552a5120/Father_Figures_Wow.mp3
+8
+Cars 3
+2017
+2017-05-22
+Brian Fee
+Lighting McQueen
+01:42:25
+00:26:11
+Wow.
+4
+10
+https://images.ctfassets.net/bs8ntwkklfua/43fOBsgY8iOJL0dijvFnfl/ea361efc5131a859c173ab5dd3fdfe1e/Cars_3_Poster.jpg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/7G6jLS5xfYBOepUxkW7R3c/c78d22f63ba51f371a1550834888b9ca/Cars_3_Wow_4_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/lIhPcmNS5L4DnpY41EpUA/96b0c5b44acf3fe16e68d1e67156d41c/Cars_3_Wow_4_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/1h3am3BfJYUm0VXV4uKF9P/e75775ec0621889efd40ce1bc372735a/Cars_3_Wow_4_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/6eO8c3ojQA4rWMlE1hMMOa/c3a9ce4c01b2d342b33144c9f90b9e3e/Cars_3_Wow_4_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/6aJuGg3bTjqd20j59vP1Wv/6cb60311194d3a9aa040882911a5f516/Cars_3_Wow_4.mp3
+9
+The Big Bounce
+2004
+2004-01-29
+George Armitage
+Jack Ryan
+01:28:10
+00:12:57
+Flippers and all. Wow.
+1
+2
+https://images.ctfassets.net/bs8ntwkklfua/4hPpMWXhuXQ8HzLusmcaS5/4c46fa4fa8bce13b06d8b4444f6150ef/The_Big_Bounce_Poster.jpg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/195OvtNqDiSyW9eRP59bfi/2cd29b687d52ae9b6a4952550332fc1d/The_Big_Bounce_Wow_1_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/1jEHNocn9fDkbrYcdbyX5y/b487ab613d42adb47513258f7f7fef85/The_Big_Bounce_Wow_1_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/3ogRIfOVNRYtzwHpmFpA5h/767a64e3126da088d60b52f4d50bb6f3/The_Big_Bounce_Wow_1_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/2Sdmp9PAZjqn38NMYLO7uj/ae96551dd43eedc55395ff294d20334f/The_Big_Bounce_Wow_1_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/6bkPu90XhX0wNMpjDhiDzv/cdeebac93089ea56eac605592f7fb21c/The_Big_Bounce_Wow_1.mp3
+10
+Midnight in Paris
+2011
+2011-05-19
+Woody Allen
+Gil Pender
+01:33:57
+00:48:45
+Wow.
+3
+10
+https://images.ctfassets.net/bs8ntwkklfua/2ZcfSCe2dlfoVzYMr4b9nK/d566e5ad044dee56645f3bffc7200d64/Midnight_in_Paris_Poster.jpg
+[1080p = 'https://videos.ctfassets.net/bs8ntwkklfua/7BBJiej0qdBbuB3Xvimrae/932bc77c9e9a9918949709f846035541/Midnight_in_Paris_Wow_3_1080p.mp4
+720p = 'https://videos.ctfassets.net/bs8ntwkklfua/5tBiVUM6ef2mARH3OXzP92/8ad999e82b7bff5ac4a07d1b4dcb45f3/Midnight_in_Paris_Wow_3_720p.mp4
+480p = 'https://videos.ctfassets.net/bs8ntwkklfua/39zl8hKK4QP1kASldccYyN/7fc8a7c86872abb9fd527a350365beea/Midnight_in_Paris_Wow_3_480p.mp4
+360p = 'https://videos.ctfassets.net/bs8ntwkklfua/6rl512MqIH6r04L4O9jHU2/2d843c19937d770860f17719960d8352/Midnight_in_Paris_Wow_3_360p.mp4]
+https://assets.ctfassets.net/bs8ntwkklfua/7BDkqWADSOxxYOSQGqNRcr/6fc4696de0d8bcafa487ddea97bb6d3b/Midnight_in_Paris_Wow_3.mp3
